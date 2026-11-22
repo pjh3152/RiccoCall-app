@@ -1,3 +1,5 @@
+<p align="center"><img src="icon.png" width="96" height="96" alt="파랑 바탕의 수화기와 별 아이콘"></p>
+
 # RiccoCall (릭코 콜)
 
 **자주 연락하는 사람을 아이콘 하나로 바로 부르는 Android 앱**
